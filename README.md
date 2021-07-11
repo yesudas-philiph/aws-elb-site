@@ -38,9 +38,12 @@ cp -r ./* /var/www/html/         #<------ it depends on your webserver document 
 
 It's a HTML and CSS written website template and its simply working with webserver only so maybe you guys need a proper website content for study purpose mainly we can change the version on aws education time that we can use this site to use learn blue green deployment time. So, please check this and use one of any website on this repo.
 
+### ⚙️ Connect with Me
+
 <p align="center">
-<a href="mailto:yousaf.k.hamza@gmail.com"><img src="https://img.shields.io/badge/-yousaf.k.hamza@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/yousafkhamza"><img src="https://img.shields.io/badge/-Linkedin-blue"/></a>
-<a href="https://github.com/FujiClado"><img src="https://img.shields.io/badge/fuji-git-lightgrey"/></a>
+<a href="mailto:yousaf.k.hamza@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/yousafkhamza"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+<a href="https://www.instagram.com/yousafkhamza"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://wa.me/%2B917736720639?text=This%20message%20from%20GitHub."><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 
