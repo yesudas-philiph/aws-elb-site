@@ -4,7 +4,7 @@
 ---
 ## Description
 
-It's using as a sample website and it's might be helpful to someone start studying with aws elastic load-balancer and who needs a site written as HTML and CSS so it doesn't need any other services only have a webserver service.
+It's using as a sample website and it's might be helpful to someone start studying with aws elastic load-balancer and who needs a site written as HTML and CSS so it doesn't need any other services only have a webserver service. Also, I'm really thankful to fuji sir and he is the developer of the website and I just forked the webiste and make some changes on my point of view.
 
 ----
 ## Feature
@@ -41,6 +41,6 @@ It's a HTML and CSS written website template and its simply working with webserv
 <p align="center">
 <a href="mailto:yousaf.k.hamza@gmail.com"><img src="https://img.shields.io/badge/-yousaf.k.hamza@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/yousafkhamza"><img src="https://img.shields.io/badge/-Linkedin-blue"/></a>
-<a href="https://techbit-new.blogspot.com/"><img src="https://img.shields.io/badge/-Blogger-orange"/></a>
+<a href="https://github.com/FujiClado"><img src="https://img.shields.io/badge/fuji-git-lightgrey"/></a>
 
 
