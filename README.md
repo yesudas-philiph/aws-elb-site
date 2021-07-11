@@ -38,7 +38,7 @@ cp -r ./* /var/www/html/         #<------ it depends on your webserver document 
 
 It's a HTML and CSS written website template and its simply working with webserver only so maybe you guys need a proper website content for study purpose mainly we can change the version on aws education time that we can use this site to use learn blue green deployment time. So, please check this and use one of any website on this repo.
 
-### ⚙️ Connect with Me
+### ⚙️ Connect with Me and Owner
 
 <p align="center">
 <a href="mailto:yousaf.k.hamza@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
