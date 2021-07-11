@@ -13,6 +13,12 @@ It's using as a sample website and it's might be helpful to someone start studyi
 - Education purpose 
 - No need any other services (only have webserver)
 
+----
+## Languages
+- HTML
+- CSS
+- PHP
+
 ---
 # How to get these sites
 
