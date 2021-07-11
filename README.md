@@ -1,4 +1,4 @@
-# Sample Website Templates for study purpose
+# Sample Website Template for study purpose (Multiple languages used)
 [![Build](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 ---
