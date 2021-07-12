@@ -9,9 +9,9 @@ It's using as a sample website and it's might be helpful to someone start studyi
 ----
 ## Feature
 
-- HTML and CSS website from tooplate
-- Education purpose 
-- No need any other services (only have webserver)
+- Sample website template
+- Education purpose (for AWS LoadBalancer)
+- License not required
 
 ----
 ## Languages
